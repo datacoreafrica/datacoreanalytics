@@ -5,7 +5,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-Meet The Team
+# Meet the team
 
 | Core Teams      | 
 | --------- | 
@@ -13,7 +13,7 @@ Meet The Team
 | Biostatisticians | 
 | Artificial Intelligence Engineers  |
 
-
+##
 
 |Support Teams    |
 |--------------- |

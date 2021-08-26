@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 ---
 
 
-## The services we provide include:
+# Our Services
 
 
 ### Bioinformatics
@@ -18,6 +18,8 @@ intro_image_hide_on_mobile: false
 * Single-Cell analysis
 * Microbial analysis
 * Genomics pipeline development & optimization 
+
+##
 
 
 ### Biostatistics
