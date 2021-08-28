@@ -7,7 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+
 # Bioinformatics & Biostatistics Solutions.
 
-Providing Bioinformatics and Biostatistics solutions and training to Students, Scientists, 
-Research institutions and Universities across Africa
+
+Scientifically rigorous data analytic solutions and training to students, scientists, research institutions 
+and universities across Africa

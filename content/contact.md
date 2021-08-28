@@ -1,10 +1,10 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Contact us today to discuss your needs.
+Contact us today virtually or physically to discuss your needs.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
