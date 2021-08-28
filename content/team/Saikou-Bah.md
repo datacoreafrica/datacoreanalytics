@@ -9,4 +9,4 @@ promoted: true
 weight: 3
 ---
 
-About Saikou Bah goes here
+- PhD Bioinformatics, [Manchester](https://www.manchester.ac.uk/)

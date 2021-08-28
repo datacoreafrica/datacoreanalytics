@@ -9,6 +9,9 @@ promoted: true
 weight: 2
 ---
 
+#### Education
+- PhD Bioinformatics, [West African Centre for Cell Biology of Infectious Pathogens, Legon](https://www.waccbip.org/)
+
 Collins M. Morang’a has extensive expertise in Bioinformatics and a keen interest in Data Science. 
 Currently, he is a bioinformatician at the WACCBIP involved in tracking SARS-CoV-2 evolution in 
 West Africa to guide public health interventions. His previous research involved statistical 

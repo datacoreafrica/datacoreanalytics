@@ -9,6 +9,9 @@ promoted: true
 weight: 4
 ---
 
+- MSc Bioinformatics, [Cheikh Anta Diop University of Dakar in Senegal](https://www.ucad.sn/)
+- Bioinformatician, [Wellcome - MRC Cambridge Stem Cell Institute](https://www.stemcells.cam.ac.uk/)
+
 Karim obtained his MSCs in Bioinformatics in 2016 from the Cheikh Anta Diop University of Dakar in Senegal. 
 He joined the Statistics and Bioinformatics department of the Medical Research Council of The Gambia (MRCG), 
 now part of the London School of Hygiene and Tropical Medicine (LSHTM), in 2017. At MRCG@LSHTM, he worked 

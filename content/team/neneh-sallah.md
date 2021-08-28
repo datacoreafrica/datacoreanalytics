@@ -9,4 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Neneh's bio goes here
+- PhD Genomics, [Cambridge](https://www.cam.ac.uk/)

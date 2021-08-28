@@ -9,6 +9,4 @@ promoted: true
 weight: 4
 ---
 
-Lamin is a trained Biostatistician with extensive experience in statistical modelling and 
-implementing data science models. He obtained an MSc Mathematics at Stellenbosh and 
-MSc Biostatistics at McGill University, Canada.
+- MSc Biostatistics, PhD Candidata, [McGill University, Canada](https://www.mcgill.ca/qls/)
