@@ -9,7 +9,6 @@ promoted: true
 weight: 2
 ---
 
-#### Education
 - PhD Bioinformatics, [West African Centre for Cell Biology of Infectious Pathogens, Legon](https://www.waccbip.org/)
 
 Collins M. Morang’a has extensive expertise in Bioinformatics and a keen interest in Data Science. 

@@ -9,4 +9,5 @@ promoted: true
 weight: 4
 ---
 
-- MSc Biostatistics, PhD Candidata, [McGill University, Canada](https://www.mcgill.ca/qls/)
+* PhD Candidate, MSc Biostatistics, [McGill University](https://www.mcgill.ca/qls/)
+

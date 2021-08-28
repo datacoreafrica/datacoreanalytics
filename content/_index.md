@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
-meta_title: 'DataCore Analytics'
-description: "Bioinformatics and Biostatistics Solutions ."
+meta_title: 'DataCore Analytics Solutions'
+description: "Bioinformatics and Biostatistics Solutions for Africa."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
